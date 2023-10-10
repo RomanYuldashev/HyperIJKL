@@ -1,0 +1,91 @@
+[
+  {
+    "backcolor": "#dbdbdb",
+    "name": "Apple Magic Keyboard",
+    "author": "Roman Yuldashev",
+    "radii": "25px",
+    "css": "@import url(https://fonts.googleapis.com/css?family=Varela+Round);\n\n.keylabel {\n    font-family: 'volkswagen_serialregular';\n}\n\n/* Strangely, \"Volkswagen Serial\" doesn't have a tilde character */\n.varela { \n    font-family: 'Varela Round'; \n    display: inline-block; \n    font-size: inherit; \n    text-rendering: auto; \n    -webkit-font-smoothing: antialiased; \n    -moz-osx-font-smoothing: grayscale;\n    transform: translate(0, 0);\n}\n.varela-tilde:after { content: \"\\07e\"; }"
+  },
+  [
+    {
+      "t": "#494949",
+      "p": "CHICKLET",
+      "a": 7,
+      "f": 5,
+      "w": 2
+    },
+    "LEFT HAND",
+    {
+      "w": 2
+    },
+    "RIGHT HAND"
+  ],
+  [
+    {
+      "c": "#83f05d",
+      "w": 2
+    },
+    "Layer Modifiers",
+    {
+      "c": "#4face3",
+      "w": 2
+    },
+    "Arrows"
+  ],
+  [
+    {
+      "c": "#1db86e",
+      "w": 2
+    },
+    "Apps",
+    {
+      "c": "#de7cc0",
+      "w": 2
+    },
+    "Home End"
+  ],
+  [
+    {
+      "c": "#dce65e",
+      "w": 2
+    },
+    "OS Navigation",
+    {
+      "c": "#f06c6f",
+      "w": 2
+    },
+    "PageUp PageDown"
+  ],
+  [
+    {
+      "c": "#e0992f",
+      "w": 2
+    },
+    "Display Selection",
+    {
+      "c": "#70dee6",
+      "w": 2
+    },
+    "Deletion"
+  ],
+  [
+    {
+      "c": "#ffdead",
+      "w": 2
+    },
+    "Toggle Capslock",
+    {
+      "c": "#c06ce1",
+      "w": 2
+    },
+    "Language"
+  ],
+  [
+    {
+      "x": 2,
+      "c": "#5971df",
+      "w": 2
+    },
+    "Parentheses"
+  ]
+]

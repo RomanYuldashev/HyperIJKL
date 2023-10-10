@@ -1,0 +1,357 @@
+[
+  {
+    "backcolor": "#dbdbdb",
+    "name": "Apple Magic Keyboard",
+    "author": "Roman Yuldashev",
+    "radii": "25px",
+    "css": "@import url(https://fonts.googleapis.com/css?family=Varela+Round);\n\n.keylabel {\n    font-family: 'volkswagen_serialregular';\n}\n\n/* Strangely, \"Volkswagen Serial\" doesn't have a tilde character */\n.varela { \n    font-family: 'Varela Round'; \n    display: inline-block; \n    font-size: inherit; \n    text-rendering: auto; \n    -webkit-font-smoothing: antialiased; \n    -moz-osx-font-smoothing: grayscale;\n    transform: translate(0, 0);\n}\n.varela-tilde:after { content: \"\\07e\"; }"
+  },
+  [
+    {
+      "t": "#666666",
+      "p": "CHICKLET",
+      "f": 2,
+      "f2": 3,
+      "w": 1.5
+    },
+    "\nesc",
+    {
+      "a": 5,
+      "f": 2
+    },
+    "\nF1",
+    {
+      "f": 2
+    },
+    "\nF2",
+    {
+      "f": 2
+    },
+    "\nF3",
+    {
+      "f": 2
+    },
+    "\nF4",
+    {
+      "f": 2
+    },
+    "\nF5",
+    {
+      "f": 2
+    },
+    "\nF6",
+    {
+      "f": 2
+    },
+    "\nF7",
+    {
+      "f": 2
+    },
+    "\nF8",
+    {
+      "f": 2
+    },
+    "\nF9",
+    {
+      "f": 2
+    },
+    "\nF10",
+    {
+      "f": 2
+    },
+    "\nF11",
+    {
+      "f": 2
+    },
+    "\nF12",
+    {
+      "a": 7,
+      "f": 9
+    },
+    "◯"
+  ],
+  [
+    {
+      "a": 5,
+      "f": 5,
+      "f2": 4
+    },
+    "±\n§",
+    {
+      "f": 5
+    },
+    "!\n1",
+    {
+      "f": 5
+    },
+    "@\n2",
+    {
+      "f": 5
+    },
+    "#\n3",
+    {
+      "f": 5
+    },
+    "$\n4",
+    {
+      "f": 5
+    },
+    "%\n5",
+    {
+      "fa": [
+        9
+      ]
+    },
+    "^\n6",
+    {
+      "f": 5
+    },
+    "&\n7",
+    {
+      "f": 5
+    },
+    "*\n8",
+    {
+      "f": 5
+    },
+    "(\n9",
+    {
+      "f": 5
+    },
+    ")\n0",
+    {
+      "f": 5
+    },
+    "_\n-",
+    {
+      "f": 5
+    },
+    "+\n=",
+    {
+      "a": 4,
+      "f": 4,
+      "w": 1.5
+    },
+    "\n\n\n⌫"
+  ],
+  [
+    {
+      "w": 1.5
+    },
+    "\n⇥",
+    {
+      "a": 7,
+      "f": 5
+    },
+    "Q",
+    "W",
+    "E",
+    "R",
+    "T",
+    {
+      "c": "#c867ff",
+      "t": "#494949",
+      "a": 4,
+      "f": 3
+    },
+    "\n\nY\n\n\n\n\n\n\n\nsel doc start*",
+    {
+      "c": "#d9b6fb"
+    },
+    "\n\nU\n\n\n\n\n\n\n\nsel curline head",
+    {
+      "c": "#ca96e9"
+    },
+    "\n\nI\n\n\n\n\n\n\n\nsel prev para*",
+    {
+      "c": "#d9b6fb"
+    },
+    "\n\nO\n\n\n\n\n\n\n\nsel curline tail",
+    {
+      "c": "#cccccc",
+      "t": "#666666",
+      "a": 7,
+      "f": 5
+    },
+    "P",
+    {
+      "a": 5
+    },
+    "{\n[",
+    "}\n]",
+    {
+      "a": 4,
+      "f": 4,
+      "w2": 0.75,
+      "h2": 2,
+      "x2": 0.25
+    },
+    "\n\n\n↩"
+  ],
+  [
+    {
+      "c": "#ca96e9",
+      "t": "#494949",
+      "fa": [
+        9,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        9
+      ],
+      "w": 1.75
+    },
+    "·\n⇪\n\n\n\n\n\n\n\n✱",
+    {
+      "c": "#cccccc",
+      "t": "#666666",
+      "a": 7,
+      "f": 5
+    },
+    "A",
+    "S",
+    "D",
+    {
+      "n": true
+    },
+    "F",
+    "G",
+    {
+      "c": "#c867ff",
+      "t": "#494949",
+      "a": 4,
+      "f": 3
+    },
+    "\n\nH\n\n\n\n\n\n\n\nsel doc end*",
+    {
+      "c": "#ca96e9",
+      "n": true
+    },
+    "\n\nJ\n\n\n\n\n\n\n\nsel prev word",
+    "\n\nK\n\n\n\n\n\n\n\nsel next para*",
+    "\n\nL\n\n\n\n\n\n\n\nsel next word",
+    {
+      "c": "#cccccc",
+      "t": "#666666",
+      "a": 5,
+      "f": 5
+    },
+    ":\n;",
+    "\"\n'",
+    "|\n\\"
+  ],
+  [
+    {
+      "a": 4,
+      "f": 4,
+      "w": 1.25
+    },
+    "\n⇧",
+    {
+      "a": 5,
+      "f": 5
+    },
+    "<i class=\"varela varela-tilde\"></i>\n`",
+    {
+      "a": 7
+    },
+    "Z",
+    "X",
+    "C",
+    "V",
+    "B",
+    "N",
+    "M",
+    {
+      "a": 5
+    },
+    "<\n,",
+    ">\n.",
+    "?\n/",
+    {
+      "a": 4,
+      "f": 4,
+      "w": 2.25
+    },
+    "\n\n\n⇧"
+  ],
+  [
+    {
+      "f": 2,
+      "h": 1.111
+    },
+    "\nfn",
+    {
+      "fa": [
+        0,
+        0,
+        4
+      ],
+      "h": 1.111
+    },
+    "\ncontrol\n⌃",
+    {
+      "c": "#ca96e9",
+      "t": "#494949",
+      "f": 4,
+      "h": 1.111
+    },
+    "\nWORD\n⌥",
+    {
+      "w": 1.25,
+      "h": 1.111
+    },
+    "\n\n⌘\nSELECT",
+    {
+      "c": "#cccccc",
+      "t": "#666666",
+      "a": 7,
+      "f": 2,
+      "w": 5,
+      "h": 1.111
+    },
+    "",
+    {
+      "c": "#ca96e9",
+      "t": "#494949",
+      "a": 4,
+      "f": 4,
+      "w": 1.25,
+      "h": 1.111
+    },
+    "⌘\nSELECT",
+    {
+      "h": 1.111
+    },
+    "⌥\n\n\nWORD",
+    {
+      "c": "#cccccc",
+      "t": "#666666",
+      "a": 7,
+      "f": 2,
+      "h": 1.111
+    },
+    "◀",
+    {
+      "h": 0.611
+    },
+    "▲",
+    {
+      "h": 1.111
+    },
+    "▶"
+  ],
+  [
+    {
+      "y": -0.5,
+      "x": 12.5,
+      "h": 0.611
+    },
+    "▼"
+  ]
+]
