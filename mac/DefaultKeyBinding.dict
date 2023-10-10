@@ -1,0 +1,11 @@
+{
+    "@\UF729" = moveToBeginningOfDocument:;                         // cmd + home
+    "@\UF72B" = moveToEndOfDocument:;                               // cmd + end
+    "@$\UF729" = moveToBeginningOfDocumentAndModifySelection:;      // cmd + shift + home
+    "@$\UF72B" = moveToEndOfDocumentAndModifySelection:;            // cmd + shift + end
+    "~\UF72C" = moveToBeginningOfParagraph:;                        // option + PageUp
+    "$~\UF72C" = moveParagraphBackwardAndModifySelection:;          // option + shift + PageUp
+    "~\UF72D" = moveToEndOfParagraph:;                              // option + PageDown
+    "$~\UF72D" = moveParagraphForwardAndModifySelection:;           // option + shift + PageDown
+    "~\UF700" = selectWord:;                                        // option + up
+}

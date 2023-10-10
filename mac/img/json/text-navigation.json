@@ -1,0 +1,428 @@
+[
+  {
+    "backcolor": "#dbdbdb",
+    "name": "Apple Magic Keyboard",
+    "author": "Roman Yuldashev",
+    "radii": "25px",
+    "css": "@import url(https://fonts.googleapis.com/css?family=Varela+Round);\n\n.keylabel {\n    font-family: 'volkswagen_serialregular';\n}\n\n/* Strangely, \"Volkswagen Serial\" doesn't have a tilde character */\n.varela { \n    font-family: 'Varela Round'; \n    display: inline-block; \n    font-size: inherit; \n    text-rendering: auto; \n    -webkit-font-smoothing: antialiased; \n    -moz-osx-font-smoothing: grayscale;\n    transform: translate(0, 0);\n}\n.varela-tilde:after { content: \"\\07e\"; }"
+  },
+  [
+    {
+      "c": "#7da858",
+      "t": "#494949",
+      "p": "CHICKLET",
+      "fa": [
+        0,
+        0,
+        2
+      ],
+      "w": 1.5
+    },
+    "\nesc\nCAPSLOCK SWITCH",
+    {
+      "c": "#cccccc",
+      "t": "#666666",
+      "a": 5,
+      "f": 2
+    },
+    "\nF1",
+    "\nF2",
+    "\nF3",
+    "\nF4",
+    "\nF5",
+    "\nF6",
+    "\nF7",
+    "\nF8",
+    "\nF9",
+    "\nF10",
+    "\nF11",
+    "\nF12",
+    {
+      "a": 7,
+      "f": 9
+    },
+    "◯"
+  ],
+  [
+    {
+      "c": "#a3d932",
+      "t": "#494949",
+      "a": 4,
+      "f": 3
+    },
+    "\n\n§\n\n\n\n\n\n±\n\nstart apps",
+    {
+      "c": "#54b654",
+      "f": 4,
+      "fa": [
+        0,
+        0,
+        3
+      ]
+    },
+    "\n\n1\n\n\n\n\n\n!\n\ndspl 1",
+    "\n\n2\n\n\n\n\n\n@\n\ndspl 2",
+    "\n\n3\n\n\n\n\n\n#\n\ndspl 3",
+    "\n\n4\n\n\n\n\n\n$\n\ndspl 4",
+    {
+      "c": "#cccccc",
+      "t": "#666666",
+      "a": 5,
+      "f": 5
+    },
+    "%\n5",
+    {
+      "fa": [
+        9
+      ]
+    },
+    "^\n6",
+    {
+      "f": 5
+    },
+    "&\n7",
+    {
+      "f": 5
+    },
+    "*\n8",
+    {
+      "f": 5
+    },
+    "(\n9",
+    {
+      "f": 5
+    },
+    ")\n0",
+    {
+      "f": 5
+    },
+    "_\n-",
+    {
+      "f": 5
+    },
+    "+\n=",
+    {
+      "a": 4,
+      "f": 4,
+      "w": 1.5
+    },
+    "\n\n\n⌫"
+  ],
+  [
+    {
+      "w": 1.5
+    },
+    "\n⇥",
+    {
+      "a": 7,
+      "f": 5
+    },
+    "Q",
+    {
+      "c": "#a5b800",
+      "t": "#494949",
+      "a": 4,
+      "f": 3
+    },
+    "\n\nW\n\n\n\n\n\n\n\nnext dsktp",
+    {
+      "c": "#a3d932",
+      "f": 5,
+      "fa": [
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3
+      ]
+    },
+    "\n\nE\n\n\n\n\n\n\n\nOutlook",
+    {
+      "fa": [
+        0,
+        0,
+        3
+      ]
+    },
+    "\n\nR\n\n\n\n\n\n\n\nIDEA",
+    "\n\nT\n\n\n\n\n\n\n\niTerm",
+    {
+      "c": "#2ecba1"
+    },
+    "\n\nY\n\n\n\n\n\n\n\npgup",
+    {
+      "c": "#2ecb83"
+    },
+    "\n\nU\n\n\n\n\n\n\n\nhome",
+    {
+      "c": "#87ffca"
+    },
+    "\n\nI\n\n\n\n\n\n\n▲",
+    {
+      "c": "#2ecb83"
+    },
+    "\n\nO\n\n\n\n\n\n\n\nend",
+    {
+      "c": "#a0f397",
+      "f": 4,
+      "fa": [
+        0,
+        0,
+        3
+      ]
+    },
+    "\n\nP\n\n\n\n\n\n\n\nLANG2",
+    {
+      "c": "#99ff00",
+      "f": 5
+    },
+    "\n\n[\n\n\n\n\n\n{\n\n(",
+    "\n\n]\n\n\n\n\n\n}\n\n)",
+    {
+      "c": "#cccccc",
+      "t": "#666666",
+      "f": 4,
+      "w2": 0.75,
+      "h2": 2,
+      "x2": 0.25
+    },
+    "\n\n\n↩"
+  ],
+  [
+    {
+      "c": "#87ffca",
+      "t": "#494949",
+      "fa": [
+        9,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        9
+      ],
+      "w": 1.75
+    },
+    "·\n⇪\n\n\n\n\n\n\n\n✱",
+    {
+      "c": "#cccccc",
+      "t": "#666666",
+      "a": 7,
+      "f": 5
+    },
+    "A",
+    {
+      "c": "#a5b800",
+      "t": "#494949",
+      "a": 4,
+      "f": 3
+    },
+    "\n\nS\n\n\n\n\n\n\n\nnext tab",
+    {
+      "c": "#a3d932"
+    },
+    "\n\nD\n\n\n\n\n\n\n\nPost man",
+    {
+      "f": 4,
+      "fa": [
+        0,
+        0,
+        3
+      ],
+      "n": true
+    },
+    "\n\nF\n\n\n\n\n\n\n\nFinder",
+    {
+      "f": 3
+    },
+    "\n\nG\n\n\n\n\n\n\n\nKee PassXC",
+    {
+      "c": "#2ecba1",
+      "f": 5,
+      "fa": [
+        0,
+        0,
+        3
+      ]
+    },
+    "\n\nH\n\n\n\n\n\n\n\npgdn",
+    {
+      "c": "#87ffca",
+      "n": true
+    },
+    "\n\nJ\n\n\n\n\n\n\n◀",
+    "\n\nK\n\n\n\n\n\n\n▼",
+    "\n\nL\n\n\n\n\n\n\n▶",
+    {
+      "c": "#a0f397",
+      "fa": [
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3
+      ]
+    },
+    "\n\n;\n\n\n\n\n\n:\n\nEN",
+    {
+      "c": "#cccccc",
+      "t": "#666666",
+      "a": 5
+    },
+    "\"\n'",
+    "|\n\\"
+  ],
+  [
+    {
+      "a": 4,
+      "f": 4,
+      "w": 1.25
+    },
+    "\n⇧",
+    {
+      "a": 5,
+      "f": 5
+    },
+    "<i class=\"varela varela-tilde\"></i>\n`",
+    {
+      "c": "#a5b800",
+      "t": "#494949",
+      "a": 4,
+      "f": 3
+    },
+    "\n\nZ\n\n\n\n\n\n\n\nback",
+    "\n\nX\n\n\n\n\n\n\n\nforward",
+    {
+      "c": "#a3d932",
+      "f": 4,
+      "fa": [
+        0,
+        0,
+        3
+      ]
+    },
+    "\n\nC\n\n\n\n\n\n\n\nTele gram",
+    "\n\nV\n\n\n\n\n\n\n\nZoom",
+    {
+      "f": 3
+    },
+    "\n\nB\n\n\n\n\n\n\n\nChrome",
+    {
+      "c": "#25f30c"
+    },
+    "\n\nN\n\n\n\n\n\n\n\ndel left",
+    "\n\nM\n\n\n\n\n\n\n\ndel cur line",
+    "\n\n,\n\n\n\n\n\n<\n\ndel cur word*",
+    "\n\n.\n\n\n\n\n\n>\n\ndel right",
+    {
+      "c": "#a0f397",
+      "f": 4,
+      "fa": [
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3
+      ]
+    },
+    "\n\n/\n\n\n\n\n\n?\n\nLANG3",
+    {
+      "c": "#cccccc",
+      "t": "#666666",
+      "w": 2.25
+    },
+    "\n\n\n⇧"
+  ],
+  [
+    {
+      "f": 2,
+      "h": 1.111
+    },
+    "\nfn",
+    {
+      "fa": [
+        0,
+        0,
+        4
+      ],
+      "h": 1.111
+    },
+    "\ncontrol\n⌃",
+    {
+      "h": 1.111
+    },
+    "\noption\n⌥",
+    {
+      "w": 1.25,
+      "h": 1.111
+    },
+    "\n\n⌘\ncommand",
+    {
+      "c": "#a0f397",
+      "t": "#494949",
+      "a": 7,
+      "f": 4,
+      "w": 5,
+      "h": 1.111
+    },
+    "NEXT INPUT LANGUAGE",
+    {
+      "c": "#cccccc",
+      "t": "#666666",
+      "a": 4,
+      "f": 2,
+      "fa": [
+        4
+      ],
+      "w": 1.25,
+      "h": 1.111
+    },
+    "⌘\ncommand",
+    {
+      "h": 1.111
+    },
+    "⌥\n\n\noption",
+    {
+      "a": 7,
+      "f": 2,
+      "h": 1.111
+    },
+    "◀",
+    {
+      "f": 2,
+      "h": 0.611
+    },
+    "▲",
+    {
+      "f": 2,
+      "h": 1.111
+    },
+    "▶"
+  ],
+  [
+    {
+      "y": -0.5,
+      "x": 12.5,
+      "f": 2,
+      "h": 0.611
+    },
+    "▼"
+  ]
+]
