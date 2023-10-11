@@ -1,4 +1,6 @@
 [//]: # (diffs with main README: small installation instruction edit, label on top and img URLs)
+[//]: # (html generated with https://github.com/KrauseFx/markdown-to-html-github-style)
+[//]: # (run: node convert.js HyperIJKL)
 
 # HyperIJKL
 
